@@ -1,16 +1,7 @@
-# wa_status_saver
+# Whatsapp Status Saver
 
-A new Flutter project.
+Crafted using the Flutter framework, the Whatsapp Status Saver offers an array of functionalities: saving, viewing, and managing WhatsApp statuses, including video statuses and image statuses as wallpapers. Notifying users upon new status arrivals, it supports seamless status sharing across applications. Ensuring privacy and convenience, it employs a permission handler and Flutter background service for permissions and status monitoring. With Chewie, Video Player, and Video Thumbnail plugins, it enhances video playback and thumbnail generation. SharePlus facilitates file sharing, while Flutter Local Notification manages notifications, and Shared Preferences preserves app configurations.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check Release to Download the APK file.
